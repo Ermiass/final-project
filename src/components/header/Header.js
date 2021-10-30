@@ -28,7 +28,7 @@ console.log(catagory)
     <div className="header">
       <Link to="/">
 
-        <h1 className="store_name">Bit-Store</h1>
+        <h1 >Bit-Store</h1>
       </Link>
       <div className="header__option">
       <div className="header__search">
